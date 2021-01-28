@@ -1,0 +1,7 @@
+give @a minecraft:music_disc_wait{display:{Name:"{\"text\":\"Blue Trap\",\"color\":\"blue\"}",Lore:["\"Drop this disc on the ground to set an invisible trap\"","\"If a player from the red team is close at a\"","\"distance of 3 blocks from the trap,\"","\"a cage of iron bars and cobwebs will be created\"","\"and the player will be teleported inside\"","\"It also gives him mining fatigue II for 15 seconds\""]}}
+
+give @a minecraft:music_disc_mall{display:{Name:"{\"text\":\"Blue Detector\",\"color\":\"blue\"}",Lore:["\"Drop this disc on the ground to set an invisible detector\"","\"If a players from the red team walks on,\"","\"he receives slowless III for 10 seconds\"","\"and glowing for 30 seconds\""]}}
+
+give @a minecraft:music_disc_chirp{display:{Name:"{\"text\":\"Red Trap\",\"color\":\"red\"}",Lore:["\"Drop this disc on the ground to set an invisible trap\"","\"If a player from the blue team is close at a\"","\"distance of 3 blocks from the trap,\"","\"a cage of iron bars and cobwebs will be created\"","\"and the player will be teleported inside\"","\"It also gives him mining fatigue II for 15 seconds\""]}}
+
+give @a minecraft:music_disc_blocks{display:{Name:"{\"text\":\"Red Detector\",\"color\":\"red\"}",Lore:["\"Drop this disc on the ground to set an invisible detector\"","\"If a players from the blue team walks on,\"","\"he receives slowless III for 10 seconds\"","\"and glowing for 30 seconds\""]}}

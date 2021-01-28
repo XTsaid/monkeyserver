@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "ded17bfb-0f75-45af-8b04-b385d889f5bd",
+    "name": "SaltNotMyFault",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e4992852-08e9-47ae-a2ac-430b9f726248",
+    "name": "XTsaid",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d3cb5bfe-1a45-4ade-bcb2-ad79c896dcfe",
+    "name": "Thongo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

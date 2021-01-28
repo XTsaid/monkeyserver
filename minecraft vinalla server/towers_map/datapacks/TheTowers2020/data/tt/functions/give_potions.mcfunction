@@ -1,0 +1,9 @@
+give @a minecraft:potion{CustomPotionEffects:[{Id:1,Amplifier:2,Duration:1000,ShowParticles:0b},{Id:8,Amplifier:1,Duration:1000,ShowParticles:0b},{Id:14,Duration:1000,ShowParticles:0b},{Id:15,Duration:1200,ShowParticles:0b},{Id:18,Duration:1200,ShowParticles:0b}],CustomPotionColor:0,display:{Name:"\"Potion of Shadow\"",Lore:["\"No effect particles, total invisibility !\"","\"(Don't forget to get off your armor)\""]}}
+
+give @a minecraft:potion{CustomPotionEffects:[{Id:1,Duration:800},{Id:5,Amplifier:2,Duration:800},{Id:11,Amplifier:4,Duration:300},{Id:19,Amplifier:4,Duration:1800}],CustomPotionColor:16747100,display:{Name:"\"Potion of Undying\"",Lore:["\"Makes you totally invincible for 15 seconds\"","\"but with risky consequences !\""]}}
+
+give @a minecraft:potion{CustomPotionEffects:[{Id:2,Amplifier:5,Duration:600},{Id:6},{Id:9,Duration:600},{Id:10,Amplifier:1,Duration:800},{Id:11,Amplifier:1,Duration:400},{Id:21,Amplifier:4,Duration:1400},{Id:23,Amplifier:5}],CustomPotionColor:16056322,display:{Name:"\"Potion of Meditation\"",Lore:["\"Well, weird meditation...\""]}}
+
+give @a minecraft:splash_potion{CustomPotionEffects:[{Id:2,Amplifier:1,Duration:400},{Id:4,Duration:400},{Id:9,Duration:200},{Id:15,Duration:80},{Id:18,Duration:600}],CustomPotionColor:11103231,display:{Name:"\"Splash Potion of Confusion\"",Lore:["\"Get the control of the intruders\""]}}
+
+give @a minecraft:splash_potion{CustomPotionEffects:[{Id:16,Duration:200},{Id:22,Duration:600},{Id:25,Amplifier:2,Duration:200},{Id:28,Duration:400}],CustomPotionColor:4063222,display:{Name:"\"Splash Potion of Ascension\"",Lore:["\"It's a bird, it's a plane...\"","\"No, it's an OP potion effect\""]}}

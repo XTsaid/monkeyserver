@@ -1,0 +1,20 @@
+Minecraft version : Snapshot 20w14a
+
+Update 1.1 :
+- The HP are showed correctly
+- The fireworks in the chests of the blue base have the appropriate color now
+- You correctly get an armor at the beginning of the game
+- You receive cookies not at your death but immediately
+- Added Detectors
+- Replaced the content of the ores chests by Detectors, horses stuff, and experience bottles
+- Increased jump boost effect for the spawn boosts
+- Higher haste effect zone
+- Removed curse of vanishing for the Shovel of Hell
+- Bugs correction
+
+Update 1.2 :
+- The maps in the chests are now empty
+- Replaced Cow spawn eggs by Zolgrin spawn eggs
+- Evokers cannot drop Totems of Undying
+- Loot tables managed for better block stacking (example : quartz stairs and walls drop quartz blocks etc...)
+- Small corrections

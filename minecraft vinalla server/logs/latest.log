@@ -1,0 +1,151 @@
+[12:56:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:16] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:56:16] [Server thread/INFO]: Loading properties
+[12:56:16] [Server thread/INFO]: Default game type: SURVIVAL
+[12:56:16] [Server thread/INFO]: Generating keypair
+[12:56:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:56:16] [Server thread/INFO]: Using default channel type
+[12:56:16] [Server thread/INFO]: Preparing level "112"
+[12:56:16] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:56:17] [Server thread/INFO]: Loaded 6 recipes
+[12:56:18] [Server thread/INFO]: Loaded 825 advancements
+[12:56:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:48] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:49] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:50] [Server thread/INFO]: Preparing spawn area: 1%
+[12:56:50] [Server thread/INFO]: Preparing spawn area: 1%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[12:56:56] [Server thread/INFO]: Preparing spawn area: 20%
+[12:56:57] [Server thread/INFO]: Preparing spawn area: 20%
+[12:56:57] [Server thread/INFO]: Preparing spawn area: 20%
+[12:56:57] [Server thread/INFO]: Preparing spawn area: 20%
+[12:56:58] [Server thread/INFO]: Preparing spawn area: 24%
+[12:57:00] [Server thread/INFO]: Preparing spawn area: 24%
+[12:57:00] [Server thread/INFO]: Preparing spawn area: 24%
+[12:57:00] [Server thread/INFO]: Preparing spawn area: 24%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 27%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 27%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 27%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 27%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 30%
+[12:57:02] [Server thread/INFO]: Preparing spawn area: 31%
+[12:57:03] [Server thread/INFO]: Preparing spawn area: 31%
+[12:57:03] [Server thread/INFO]: Preparing spawn area: 31%
+[12:57:04] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 35%
+[12:57:07] [Server thread/INFO]: Preparing spawn area: 40%
+[12:57:09] [Server thread/INFO]: Preparing spawn area: 40%
+[12:57:09] [Server thread/INFO]: Preparing spawn area: 40%
+[12:57:09] [Server thread/INFO]: Preparing spawn area: 40%
+[12:57:09] [Server thread/INFO]: Preparing spawn area: 40%
+[12:57:10] [Server thread/INFO]: Preparing spawn area: 45%
+[12:57:12] [Server thread/INFO]: Preparing spawn area: 45%
+[12:57:12] [Server thread/INFO]: Preparing spawn area: 45%
+[12:57:12] [Server thread/INFO]: Preparing spawn area: 45%
+[12:57:12] [Server thread/INFO]: Preparing spawn area: 45%
+[12:57:12] [Server thread/INFO]: Preparing spawn area: 49%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:19] [Server thread/INFO]: Preparing spawn area: 50%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Preparing spawn area: 65%
+[12:57:33] [Server thread/INFO]: Time elapsed: 47470 ms
+[12:57:33] [Server thread/INFO]: Done (76.307s)! For help, type "help"
+[12:57:45] [User Authenticator #1/INFO]: UUID of player XTsaid is e4992852-08e9-47ae-a2ac-430b9f726248
+[12:57:45] [Server thread/INFO]: XTsaid[/192.168.8.111:61680] logged in with entity id 201 at (41.23791060229622, 68.0, 18.04421902186748)
+[12:57:45] [Server thread/INFO]: XTsaid joined the game
+[12:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[12:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12498ms or 249 ticks behind
+[12:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4755ms or 95 ticks behind
+[13:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[13:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[13:00:42] [Server thread/INFO]: XTsaid has reached the goal [Sky's the Limit]
+[13:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:00:53] [Server thread/WARN]: XTsaid moved too quickly! -11.19832433930955,-2.6010024609884965,13.602625141927092
+[13:00:56] [Server thread/WARN]: XTsaid moved too quickly! -10.469706921920732,-13.365561388158866,6.18589278401771
+[13:01:00] [Server thread/WARN]: XTsaid moved too quickly! -14.414486038538968,-4.942601452729065,8.844586519088978
+[13:01:04] [Server thread/WARN]: XTsaid moved too quickly! 0.0,-18.155609366970943,0.0
+[13:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13724ms or 274 ticks behind
+[13:01:33] [Server thread/WARN]: XTsaid moved too quickly! 19.491895283363903,-3.497323500678789,-1.8149325961511806
+[13:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7483ms or 149 ticks behind
+[13:01:51] [Server thread/WARN]: XTsaid moved too quickly! 13.387530737901244,-2.4856550779824147,11.38655624016667
+[13:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5296ms or 105 ticks behind
+[13:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6581ms or 131 ticks behind
+[13:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[13:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3107ms or 62 ticks behind
+[13:04:54] [Server thread/INFO]: XTsaid lost connection: Disconnected
+[13:04:54] [Server thread/INFO]: XTsaid left the game
+[13:20:50] [Server thread/INFO]: Stopping the server
+[13:20:50] [Server thread/INFO]: Stopping server
+[13:20:50] [Server thread/INFO]: Saving players
+[13:20:50] [Server thread/INFO]: Saving worlds
+[13:20:50] [Server thread/INFO]: Saving chunks for level '112'/minecraft:the_end
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:20:50] [Server thread/INFO]: Saving chunks for level '112'/minecraft:overworld
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (112): All chunks are saved
+[13:20:50] [Server thread/INFO]: Saving chunks for level '112'/minecraft:the_nether
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (112): All chunks are saved
+[13:20:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
